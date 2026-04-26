@@ -18,5 +18,6 @@ mvn test
 - **Strings**
   - [Valid Anagram](src/main/java/com/caglareker/dsa/strings/ValidAnagram.java)
   - [Valid Parentheses](src/main/java/com/caglareker/dsa/strings/ValidParentheses.java)
+  - [Valid Palindrome](src/main/java/com/caglareker/dsa/strings/ValidPalindrome.java)
 - **Linked List**
   - [Reverse Linked List](src/main/java/com/caglareker/dsa/linkedlist/ReverseLinkedList.java)
