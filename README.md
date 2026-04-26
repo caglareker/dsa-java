@@ -10,6 +10,13 @@ Each problem sits under `src/main/java/com/caglareker/dsa/<topic>/` with tests i
 mvn test
 ```
 
-## Topics so far
+## Topics
 
-- Arrays: Two Sum
+- **Arrays**
+  - [Two Sum](src/main/java/com/caglareker/dsa/arrays/TwoSum.java)
+  - [Contains Duplicate](src/main/java/com/caglareker/dsa/arrays/ContainsDuplicate.java)
+- **Strings**
+  - [Valid Anagram](src/main/java/com/caglareker/dsa/strings/ValidAnagram.java)
+  - [Valid Parentheses](src/main/java/com/caglareker/dsa/strings/ValidParentheses.java)
+- **Linked List**
+  - [Reverse Linked List](src/main/java/com/caglareker/dsa/linkedlist/ReverseLinkedList.java)
